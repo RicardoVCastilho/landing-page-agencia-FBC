@@ -32,7 +32,7 @@ Esta landing page tem o objetivo de exercitar os meus conhecimentos em HTML e CS
 A principal funcionalidade é servir de modelo para estudos, exercitando o conhecimento nas tecnologias listadas acima. 
 
 ## Links
--GitPages: https://ricardovcastilho.github.io/landing-page-agencia-FBC/
+- GitPages: https://ricardovcastilho.github.io/landing-page-agencia-FBC/
 
 - Repositório: https://github.com/RicardoVCastilho/landing-page-agencia-FBC
 
