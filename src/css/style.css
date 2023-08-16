@@ -17,8 +17,6 @@ body {
     font-weight: 400;
 }
 
-/* header */
-
 .header {
     grid-area: header;
     background-color: #fff;
@@ -41,10 +39,6 @@ body {
 .header a:hover h1 {
     color: coral;
 }
-
-/* fim do header */
-
-/* hero */
 
 .hero {
     grid-area: hero;
@@ -91,10 +85,6 @@ body {
         font-size: 2.5rem;
     }
 }
-
-/* fim do hero */
-
-/* about */
 
 .about {
     grid-area: about;
@@ -175,10 +165,6 @@ body {
     }
 }
 
-/* fim do about */
-
-/* services */
-
 .services {
     grid-area: services;
     display: grid;
@@ -222,10 +208,6 @@ body {
     }
 }
 
-/* fim do services */
-
-/* products */
-
 .products {
     grid-area: products;
     display: grid;
@@ -255,10 +237,6 @@ body {
         grid-template-rows: repeat(4, 1fr);
     }
 }
-
-/* fim do products */
-
-/* footer */
 
 .footer {
     grid-area: footer;
@@ -310,5 +288,3 @@ body {
 .footer .social a {
     margin: 20px;
 }
-
-/* fim do footer */
